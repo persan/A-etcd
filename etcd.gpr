@@ -1,3 +1,6 @@
+with "aws";
+with "gnatcoll";
+
 library project Etcd is
 
    for Source_Dirs use ("src");
